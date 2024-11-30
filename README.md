@@ -1,36 +1,32 @@
 ## Hi there 👋
 
 ```javascript
-class RafnixG {
+class GermanRiveros {
     constructor() {
-        this.username = 'rafnixg';
-        this.name = 'Rafnix Guzmán';
-        this.position = 'Python Software Developer';
-        this.web = 'https://rafnixg.dev';
-        this.links = 'https://links.rafnixg.dev';
-        this.blog = 'https://blog.rafnixg.dev';
-        this.cv = 'https://resume.rafnixg.dev';
-        this.twitter = '@rafnixg';
+        this.username = 'german-rs';
+        this.name = 'Germán Riveros';
+        this.email = 'contacto@germanriveros.cl';
+        this.web = 'https://germanriveros.cl';
+        this.linkedin = 'https://www.linkedin.com/in/german-rs/';
+        this.FreeCodeCamp = 'https://www.freecodecamp.org/german-rs';
         this.code = {
-            backend: ['Python', 'Odoo', 'Flask', 'Django', 'FastAPI', 'NodeJS', 'PHP'],
-            database: ['PostgreSQL', 'MySQL', 'SQLite3', 'Mongo DB', 'Redis'],
-            devops: ['Docker', 'Linux', 'Jenkins', 'GitHub Actions', 'AWS', 'Proxmox'],
-            frontend: ['HTML', 'CSS', 'JavaScript', 'ReactJS', 'Svelte', 'Bootstrap'],
-            tools: ['GIT', 'GitHub', 'GitLab', 'Pandas', 'Jupyter notebook', 'SQLAlchemy', 'Celery', 'Nginx'],
-            misc: ['Firebase', 'TDD', 'SCRUM', 'SOLID', 'gRPC', 'ML', 'Tech Writer']
+            frontend: ['HTML', 'CSS', 'JavaScript', 'VueJS', 'Sass', 'Bootstrap'],
+            backend: ['NodeJS', 'PHP'],
+            database: ['PostgreSQL', 'MySQL', 'SQLite3', 'Mongo DB'],
+            tools: ['GIT', 'GitHub'],
+            misc: ['Firebase', 'Figma', 'Inkscape', 'WordPress', 'Pixel Perfect', 'Accesibilidad']
         };
-        this.architecture = ['SPA', 'MVC', 'Serverless', 'microservices'];
     }
 
     toString() {
-        return `${this.name} | ${this.position}`;
+        return `${this.name} | ${this.email}`;
     }
 }
 
 // Ejecución del script
-const me = new RafnixG();
+const me = new GermanRiveros();
 console.log(me.toString());
-
+```
 
 <!--
 **german-rs/german-rs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
