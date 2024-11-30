@@ -1,31 +1,33 @@
 ## Hi there 👋
 
 ```javascript
-class GermanRiveros {
-    constructor() {
-        this.username = 'german-rs';
-        this.name = 'Germán Riveros';
-        this.email = 'contacto@germanriveros.cl';
-        this.web = 'https://germanriveros.cl';
-        this.linkedin = 'https://www.linkedin.com/in/german-rs/';
-        this.FreeCodeCamp = 'https://www.freecodecamp.org/german-rs';
-        this.code = {
-            frontend: ['HTML', 'CSS', 'JavaScript', 'VueJS', 'Sass', 'Bootstrap'],
-            backend: ['NodeJS', 'PHP'],
-            database: ['PostgreSQL', 'MySQL', 'SQLite3', 'Mongo DB'],
-            tools: ['GIT', 'GitHub'],
-            misc: ['Firebase', 'Figma', 'Inkscape', 'WordPress', 'Pixel Perfect', 'Accesibilidad']
-        };
+(() => {
+    class GermanRiveros {
+        constructor() {
+            this.username = 'german-rs';
+            this.name = 'Germán Riveros';
+            this.email = 'contacto@germanriveros.cl';
+            this.web = 'https://germanriveros.cl';
+            this.linkedin = 'https://www.linkedin.com/in/german-rs/';
+            this.FreeCodeCamp = 'https://www.freecodecamp.org/german-rs';
+            this.code = {
+                frontend: ['HTML', 'CSS', 'JavaScript', 'VueJS', 'Sass', 'Bootstrap'],
+                backend: ['NodeJS', 'PHP'],
+                database: ['PostgreSQL', 'MySQL', 'SQLite3', 'Mongo DB'],
+                tools: ['GIT', 'GitHub'],
+                misc: ['Firebase', 'Figma', 'Inkscape', 'WordPress', 'Pixel Perfect', 'Accesibilidad']
+            };
+        }
+
+        toString() {
+            return `${this.name} | ${this.email}`;
+        }
     }
 
-    toString() {
-        return `${this.name} | ${this.email}`;
-    }
-}
-
-// Ejecución del script
-const me = new GermanRiveros();
-console.log(me.toString());
+    // Ejecución del script
+    const me = new GermanRiveros();
+    console.log(me.toString());
+})();        
 ```
 
 <!--
