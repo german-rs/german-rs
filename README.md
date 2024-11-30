@@ -1,4 +1,4 @@
-## Hi there 👋
+![](https://germanriveros.cl/wp-content/uploads/2024/11/banner-git.webp)
 
 ```javascript
 (() => {
