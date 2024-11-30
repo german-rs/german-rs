@@ -18,13 +18,10 @@
                 misc: ['Firebase', 'Figma', 'Inkscape', 'WordPress', 'Pixel Perfect', 'Accesibilidad']
             };
         }
-
         toString() {
             return `${this.name} | ${this.email}`;
         }
     }
-
-    // Ejecución del script
     const me = new GermanRiveros();
     console.log(me.toString());
 })();        
