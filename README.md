@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+```javascript
 class RafnixG {
     constructor() {
         this.username = 'rafnixg';
