@@ -3,7 +3,7 @@
 
 ```javascript
 (() => {
-    class GermanRiveros {
+    class Person{
         constructor() {
             this.username = 'german-rs';
             this.name = 'Germán Riveros';
@@ -23,7 +23,7 @@
             return `${this.name} | ${this.email}`;
         }
     }
-    const me = new GermanRiveros();
+    const me = new Person();
     console.log(me.toString());
 })();        
 ```
