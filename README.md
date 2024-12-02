@@ -1,12 +1,5 @@
 ![Banner Germán Riveros](https://germanriveros.cl/wp-content/uploads/2024/11/ban-git.webp)
 
-  _    _  ____   _      ______       
- | |  | |/ __ \ | |    |  --  |   
- | |__| | |  | || |    | |  | |  
- |  __  | |  | || |    | |__| |  
- | |  | | |__| || |____| |  | |
- |_|  |_|\____/ |______|_|  |_| 
-
 
 ```javascript
 (() => {
