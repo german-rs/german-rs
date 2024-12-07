@@ -13,6 +13,7 @@
             this.FreeCodeCamp = 'https://www.freecodecamp.org/german-rs';
             this.code = {
                 frontend: ['HTML', 'CSS', 'JavaScript', 'VueJS', 'Sass', 'Bootstrap'],
+                Mobile: ['Flutter'],    
                 backend: ['NodeJS', 'PHP'],
                 database: ['PostgreSQL', 'MySQL', 'SQLite3', 'Mongo DB'],
                 tools: ['GIT', 'GitHub'],
