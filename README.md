@@ -12,7 +12,7 @@
             this.linkedin = 'https://www.linkedin.com/in/german-rs/';
             this.FreeCodeCamp = 'https://www.freecodecamp.org/german-rs';
             this.code = {
-                I.A = chatGPT, Claude, Copilot, Gemini, LLama, Leonardo, Ideogram, immersity;
+                I.A = 'chatGPT', 'Claude', 'Copilot', 'Gemini', 'LLama', 'Leonardo', 'Ideogram', 'immersity';
                 frontend: ['HTML', 'CSS', 'JavaScript', 'VueJS', 'Sass', 'Bootstrap'],
                 Mobile: ['Flutter'],    
                 backend: ['NodeJS', 'PHP'],
