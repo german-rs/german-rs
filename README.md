@@ -12,12 +12,13 @@
             this.linkedin = 'https://www.linkedin.com/in/german-rs/';
             this.FreeCodeCamp = 'https://www.freecodecamp.org/german-rs';
             this.code = {
+                I.A = chatGPT, Claude, Copilot, Gemini, LLama, Leonardo, Ideogram, immersity;
                 frontend: ['HTML', 'CSS', 'JavaScript', 'VueJS', 'Sass', 'Bootstrap'],
                 Mobile: ['Flutter'],    
                 backend: ['NodeJS', 'PHP'],
                 database: ['PostgreSQL', 'MySQL', 'SQLite3', 'Mongo DB'],
                 tools: ['GIT', 'GitHub'],
-                misc: ['Firebase', 'Figma', 'Inkscape', 'WordPress', 'Pixel Perfect', 'Accesibilidad']
+                misc: ['Firebase', 'Figma', 'Inkscape', 'WordPress']
             };
         }
         toString() {
