@@ -13,7 +13,7 @@
             this.FreeCodeCamp = 'https://www.freecodecamp.org/german-rs';
             this.code = {
                 frontend: ['HTML', 'CSS', 'JavaScript', 'VueJS', 'Sass', 'Bootstrap'],
-                I.A: ['chatGPT', 'Claude', 'Copilot', 'Gemini', 'LLama', 'Leonardo', 'Ideogram', 'immersity'],
+                I_A: ['chatGPT', 'Claude', 'Copilot', 'Gemini', 'LLama', 'Leonardo', 'Ideogram', 'immersity'],
                 Mobile: ['Flutter'],
                 backend: ['NodeJS', 'PHP'],
                 database: ['PostgreSQL', 'MySQL', 'SQLite3'],
