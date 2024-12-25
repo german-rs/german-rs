@@ -10,7 +10,7 @@
             this.FreeCodeCamp = 'https://www.freecodecamp.org/german-rs';
             this.code = {
                 llms: ['Copilot', 'chatGPT', 'Claude', 'Gemini', 'Leonardo', 'Ideogram'],
-                languages: ['TypeScript', 'JavaScript', 'Dart'],
+                languages: ['JavaScript', 'Dart'],
                 frontend: ['VueJS', 'Sass', 'Gutenberg', 'Bootstrap', 'jQuery'],
                 mobile: ['Flutter'],
                 backend: ['NodeJS'],
