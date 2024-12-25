@@ -1,4 +1,4 @@
-![Banner Germán Riveros](https://germanriveros.cl/wp-content/uploads/2024/11/ban-git.webp)
+![Banner Germán Riveros](https://germanriveros.cl/wp-content/uploads/2024/11/foto-perfil-2.webp)
 
 
 ```javascript
