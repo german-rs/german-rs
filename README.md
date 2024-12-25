@@ -8,7 +8,7 @@
             this.web = 'https://germanriveros.cl';
             this.linkedin = 'https://www.linkedin.com/in/german-rs/';
             this.FreeCodeCamp = 'https://www.freecodecamp.org/german-rs';
-            this.code = {
+            this.technologies = {
                 llms: ['Copilot', 'chatGPT', 'Claude', 'Gemini', 'Leonardo', 'Ideogram'],
                 languages: ['JavaScript', 'Dart'],
                 frontend: ['VueJS', 'Sass', 'Gutenberg', 'Bootstrap', 'jQuery'],
