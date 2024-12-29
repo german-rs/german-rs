@@ -9,7 +9,7 @@
             this.linkedin = 'https://www.linkedin.com/in/german-rs/';
             this.FreeCodeCamp = 'https://www.freecodecamp.org/german-rs';
             this.technologies = {
-                llms: ['Copilot', 'chatGPT', 'Claude', 'Gemini', 'Leonardo', 'Ideogram'],
+                llms: ['Copilot', 'chatGPT', 'Claude', 'Gemini', 'Cohere'],
                 languages: ['JavaScript', 'Dart'],
                 frontend: ['VueJS', 'Sass', 'Gutenberg', 'Bootstrap', 'jQuery'],
                 mobile: ['Flutter'],
