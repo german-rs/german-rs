@@ -24,7 +24,7 @@
             this.linkedin = 'https://www.linkedin.com/in/german-rs/';
             this.FreeCodeCamp = 'https://www.freecodecamp.org/german-rs';
             this.technologies = {
-                llms: ['Copilot', 'chatGPT', 'Claude', 'Gemini', 'Cohere'],
+                llms: ['Copilot', 'chatGPT', 'Claude', 'Gemini', 'Cohere', 'DeepSeek'],
                 languages: ['JavaScript', 'Dart'],
                 frontend: ['VueJS', 'Sass', 'Gutenberg', 'Bootstrap', 'jQuery'],
                 mobile: ['Flutter'],
