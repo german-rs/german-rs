@@ -25,8 +25,8 @@
             this.FreeCodeCamp = 'https://www.freecodecamp.org/german-rs';
             this.technologies = {
                 llms: ['Copilot', 'chatGPT', 'Claude', 'Gemini', 'Cohere', 'DeepSeek'],
-                languages: ['JavaScript', 'Dart'],
-                frontend: ['VueJS', 'Sass', 'Gutenberg', 'Bootstrap', 'jQuery'],
+                languages: ['JavaScript', 'PHP', 'Dart'],
+                frontend: ['Vue.js', 'Sass', 'Gutenberg', 'Bootstrap', 'jQuery'],
                 mobile: ['Flutter'],
                 backend: ['NodeJS'],
                 database: ['PostgreSQL', 'MySQL', 'SQLite3'],
